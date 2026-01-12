@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "BABY",
+  "base_artist": "YOASOBI",
+  "createdAt": "2026-01-12T10:21:24.822069Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Baby I Am",
+      "artist": "Dalton Dover",
+      "has_synced": true,
+      "path": "select/01_Baby_I_Am_Dalton_Dover.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Baby Jane",
+      "artist": "Rod Stewart",
+      "has_synced": true,
+      "path": "select/02_Baby_Jane_Rod_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Brown Eyes Baby",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/03_Brown_Eyes_Baby_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Brown Eyes Baby",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/04_Brown_Eyes_Baby_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "STAYING ALIVE (feat. Drake & Lil Baby)",
+      "artist": "DJ Khaled feat. Drake & Lil Baby",
+      "has_synced": true,
+      "path": "select/05_STAYING_ALIVE_(feat._Drake_&_Lil_Baby)_DJ_Khaled_feat._Drake_&_Lil_Baby.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Somebody's Baby",
+      "artist": "Jackson Browne",
+      "has_synced": false,
+      "path": "select/06_Somebody's_Baby_Jackson_Browne.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ily (i love you baby) [feat. Emilee]",
+      "artist": "Surf Mesa",
+      "has_synced": true,
+      "path": "select/07_ily_(i_love_you_baby)_[feat._Emilee]_Surf_Mesa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Baby, Baby (I Know You're a Lady)",
+      "artist": "David Houston",
+      "has_synced": false,
+      "path": "select/08_Baby,_Baby_(I_Know_You're_a_Lady)_David_Houston.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Baby Blue",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/09_Baby_Blue_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Baby Blue (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/10_Baby_Blue_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Baby Blue (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/11_Baby_Blue_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Baby Blue (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/12_Baby_Blue_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Baby Girl - 2nd Version/Remix/Album Version",
+      "artist": "Sugarland",
+      "has_synced": true,
+      "path": "select/13_Baby_Girl_-_2nd_Version_Remix_Album_Version_Sugarland.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Baby I Lied",
+      "artist": "Deborah Allen",
+      "has_synced": false,
+      "path": "select/14_Baby_I_Lied_Deborah_Allen.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Baby I Will",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/15_Baby_I_Will_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Baby I Will (Album Version)",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/16_Baby_I_Will_(Album_Version)_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Baby Likes to Rock It",
+      "artist": "The Tractors",
+      "has_synced": true,
+      "path": "select/17_Baby_Likes_to_Rock_It_The_Tractors.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Baby Ride Easy (with June Carter Cash)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/18_Baby_Ride_Easy_(with_June_Carter_Cash)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Baby Ride Easy",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/19_Baby_Ride_Easy_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Baby, Now That I've Found You",
+      "artist": "Alison Krauss",
+      "has_synced": true,
+      "path": "select/20_Baby,_Now_That_I've_Found_You_Alison_Krauss.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BABY",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_BABY_YOASOBI.txt"
+    }
+  ]
+}
